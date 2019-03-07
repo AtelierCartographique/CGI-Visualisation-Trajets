@@ -15,4 +15,4 @@ https://youtu.be/1sUyTno_vAA
 
 ## Éléments requis
 
-Ce script requiert le logiciel libre de modélisation et de rendu 3D Blender (www.blender.org)
+Ce script requiert le logiciel libre Blender (www.blender.org) pour la modélisation, l'animation et de rendu 3D de la carte.
