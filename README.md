@@ -1,4 +1,4 @@
-# CGI-Visualisation-Trajets
+# Cartographie animée de flux spatiaux
 
 ## Description
 
@@ -12,3 +12,7 @@ https://youtu.be/1sUyTno_vAA
 <div align="center">
   <a href="https://www.youtube.com/watch?v=1sUyTno_vAA"><img src="https://img.youtube.com/vi/1sUyTno_vAA/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
+
+## Éléments requis
+
+Ce script requiert le logiciel libre de modélisation et de rendu 3D Blender (www.blender.org)
