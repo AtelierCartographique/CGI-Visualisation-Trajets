@@ -2,7 +2,8 @@
 
 ## Description
 
-Script Python (Blender) pour visualiser des trajets dans l'espace (étude de cas de trajets de cyclistes à Montréal). Le script prend pour données de base une série de polyligne décrivant des trajets, et fourni une animation 3D complète à l'aide du moteur de rendu de Blender.
+Script Python (Blender) pour visualiser des trajets dans l'espace (étude de cas de trajets de cyclistes à Montréal). Le script prend pour données de base une série de polylignes décrivant des trajets, et fourni une animation 3D complète à l'aide du moteur de rendu de Blender.
+
 Les cycles jour/nuit sont simulé afin de représenter le temps.
 
 ## Résultats
